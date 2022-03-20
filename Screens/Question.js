@@ -1,23 +1,53 @@
 const Questions=[
     {
         No:1,
-        Questions:"1. Who was the first President of India?"
+        Question:"1. Which one of the following river flows between Vindhyan and Satpura ranges?",
+        options:{
+            a:"(a) Narmada",
+            b:"(b) Mahanadi",
+            c:"(c) Son",
+            d:"(d) Netravati"
+        }
     },
     {
         No:2,
-        Questions:"2. Who is known as Father of Indian Constitution?"
+        Question:"2. The Central Rice Research Station is situated in?",
+        options:{
+            a:" (a) Chennai",
+            b:" (b) Cuttack",
+            c:" (c) Bangalore",
+            d:" (d) Quilon"
+        }
     },
     {
         No:3,
-        Questions:"3. Which is the most sensitive organ in our body?"
+        Question:"3. Who among the following wrote Sanskrit grammar?",
+        options:{
+            a:"(a) Kalidasa",
+            b:"(b) Charak",
+            c:"(c) Panini",
+            d:"(c) Paninii"
+        }
     },
     {
         No:4,
-        Questions:"4. Giddha is the folk dance of?"
+        Question:"4. Which among the following headstreams meets the Ganges in last?",
+        options:{
+            a:"(a) Alaknanda",
+            b:"(b) Pindar",
+            c:"(c) Mandakini",
+            d:"(d) Bhagirathi"
+        }
     },
     {
         No:5,
-        Questions:"5. Which is the heavier metal of these two? Gold or Silver?"
+        Question:"5. The metal whose salts are sensitive to light is?",
+        options:{
+            a:"(a) Zinc",
+            b:"(b) Silver",
+            c:"(c) Copper",
+            d:"(d) Aluminum"
+        }
     }
 ]
 export default Questions
